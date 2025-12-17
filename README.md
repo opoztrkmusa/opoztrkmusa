@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/527766667-d0e23dc1-ef13-460b-b65c-641b5edbac1a.gif" width="600" autoplay>
-</p>
+<div class="tenor-gif-embed" data-postid="204199633528936134" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-scream-gif-204199633528936134">Cat Scream GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
